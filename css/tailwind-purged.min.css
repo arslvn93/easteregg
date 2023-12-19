@@ -811,7 +811,7 @@ select {
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
 }.bg-primary-500 {
   --tw-bg-opacity: 1;
-  background-color: rgb(222 255 22 / var(--tw-bg-opacity));
+  background-color: rgb(0 17 143 / var(--tw-bg-opacity));
 }.bg-transparent {
   background-color: transparent;
 }.bg-white {
@@ -871,7 +871,7 @@ select {
 }.font-body {
   font-family: Montserrat, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }.font-display {
-  font-family: Montserrat Alternates, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: Montserrat, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }.text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
@@ -905,7 +905,7 @@ select {
   color: rgb(0 0 0 / var(--tw-text-opacity));
 }.text-primary-500 {
   --tw-text-opacity: 1;
-  color: rgb(222 255 22 / var(--tw-text-opacity));
+  color: rgb(0 17 143 / var(--tw-text-opacity));
 }.text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
@@ -918,19 +918,19 @@ select {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 } .button-group__label[data-v-3f5c61d0]{cursor:pointer;display:block}.button-group__button[data-v-3f5c61d0]{pointer-events:none!important;cursor:none!important}.button .button__icon{pointer-events:none}.button.loader .button__label{opacity:0}.media{vertical-align:top}.media__wrapper{position:relative;overflow:hidden;flex-grow:1;width:100%;height:100%}.media__item--embed>*{width:100%;height:100%}.media__item--svg>svg{width:100%!important;height:100%!important;fill:currentColor!important}.media--ratio{display:block!important}.media--ratio .media__wrapper{height:auto}.media--ratio .media__item{height:auto;position:absolute;top:0;left:0;width:100%;height:100%}.select select{width:100%}.text__wrapper p:empty:after{white-space:pre;content:" "}body{overflow-x:hidden}:focus{outline:none}a{display:inline-block}.bg-gradient-to-c{background-image:radial-gradient(var(--tw-gradient-stops))}.bg-clip-text{-webkit-background-clip:text;color:transparent!important}.bg-clip-text *{background:inherit;color:transparent!important}.bg-image{position:relative}.bg-image>*{position:relative;z-index:2}.bg-image:before{content:"";background-image:var(--bg-image);background-repeat:inherit;background-size:inherit;background-position:inherit;opacity:var(--bg-image-opacity);position:absolute;top:0;left:0;right:0;bottom:0}.hover\:bg-primary-50:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(251 255 229 / var(--tw-bg-opacity));
+  background-color: rgb(229 233 255 / var(--tw-bg-opacity));
 }.hover\:bg-primary-500:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(222 255 22 / var(--tw-bg-opacity));
+  background-color: rgb(0 17 143 / var(--tw-bg-opacity));
 }.hover\:bg-primary-700:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(171 200 0 / var(--tw-bg-opacity));
+  background-color: rgb(0 16 133 / var(--tw-bg-opacity));
 }.hover\:text-black:hover {
   --tw-text-opacity: 1;
   color: rgb(0 0 0 / var(--tw-text-opacity));
 }.hover\:text-primary-800:hover {
   --tw-text-opacity: 1;
-  color: rgb(138 161 0 / var(--tw-text-opacity));
+  color: rgb(0 15 128 / var(--tw-text-opacity));
 }@media (min-width: 768px) {
 
   .md\:-m-4 {
